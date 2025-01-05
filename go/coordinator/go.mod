@@ -13,7 +13,7 @@ require (
 	go.uber.org/automaxprocs v1.5.3
 	go.uber.org/zap v1.26.0
 	google.golang.org/grpc v1.58.3
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 	gorm.io/driver/sqlite v1.5.4
 	gorm.io/gorm v1.25.5
 	k8s.io/apimachinery v0.28.3
